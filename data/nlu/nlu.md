@@ -74,6 +74,7 @@
 - How much money do I have?
 - Yeah, I like coffee 👀 But how much money do I have?
 - Yeah, I know 😀 Since it's so nice: How much money do I have?
+- Can I know my account balance please?
 
 ## intent:check_earnings
 - How much money went into my account last month?
@@ -135,6 +136,7 @@
 - hi there
 - Hello
 - hello its ella
+- Hola
 
 ## intent:inform
 - $10
@@ -288,6 +290,8 @@
 - thanks goodbye
 - thank you and good bye
 - Thanks!
+- Thanks a lot!!
+- Thank you!
 
 ## intent:transfer_money
 - I want to pay John
@@ -364,7 +368,6 @@
 - i want to talk to a human
 - transfer to a human
 - Please give me to a human
-
 
 ## synonym:credit
 - credit card
