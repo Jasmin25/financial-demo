@@ -292,6 +292,7 @@
 - Thanks!
 - Thanks a lot!!
 - Thank you!
+- Thanks!!
 
 ## intent:transfer_money
 - I want to pay John
